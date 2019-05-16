@@ -39,10 +39,22 @@ Things to consider
 
 - Descriptions are added as comments to each step
 
-
 ### References
 
 - You can use a (scaffolding)[https://github.com/audreyr/cookiecutter] tool to generate the project structure
 
 - Use py.test test framework
 
+### Directions
+
+- Take 2-3 days to work on this assignment
+
+- We are looking for a solution that is easily extensible and atleast have ability to incorporate more features in the future
+
+- Abstractions and code style is not most important but a well written code with good abstractions will definitely make the project more appealing
+
+- Call us if you have any trouble understading anything
+
+- This will be followed by an interview where you will be asked to explain your decisions and asked to describe about challenges and opportunities with your solution
+
+- Most importantly, have fun building it :) :)
