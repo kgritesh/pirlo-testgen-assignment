@@ -1,0 +1,30 @@
+---
+test:
+  name: Search pirlo.io on google and open it
+  description: |
+    Search for pirlo.io and open the website
+  base_url: https://google.com
+  step_wait: 5
+  steps:
+    - type: input
+      text: pirlo.io
+      description: Enter text "Pirlo.io"
+      locator:
+        type: attribute
+        key: name
+        value: q
+
+    - type: click
+      description: Click search button
+      locator:
+        type: attribute
+        key: value
+        value: "Google Search"
+
+    - type: click
+      description: Click search button
+      locator:
+        type: attribute
+        tag: a
+        key: href
+        value: "http://pirlo.io"
