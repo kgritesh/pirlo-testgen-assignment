@@ -69,7 +69,7 @@ This is a fairly challenging task, so we are not expecting a full fledged soluti
 
 - Readme file to let us know how to run the app
 
-- Any other documentation that you want to share.
+- A documentation explaining the missign gaps / potential challenges in your solution as well as how could you over come them given more time
 
 ### Instructions
 
